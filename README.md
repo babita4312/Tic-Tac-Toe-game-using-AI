@@ -15,4 +15,4 @@ How to install
 2. cd Tic-Tac-Toe-game-using-AI
 3. Type python3 ai_tictactoe.py
 
-[If you don't have python installed on your system go to](Release/ai_tictactoe.exe) and simply double click to run the game.
+If you don't have python installed on your system then navigate to [Release] folder (Release/ai_tictactoe.exe) and simply double click to run the game.
